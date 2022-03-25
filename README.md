@@ -12,13 +12,23 @@ En este repositorio se almacena el contenido de un curso basico de Bash Scriptin
 
 <h3>3. Variables especiales</h3>
 
+[![Alt text](https://img.youtube.com/vi/dRA0xyRrbuU/0.jpg)](https://www.youtube.com/watch?v=dRA0xyRrbuU)
+
 <h3>4. Variables normales</h3>
+
+[![Alt text](https://img.youtube.com/vi/Ok5ngwDPD4U/0.jpg)](https://www.youtube.com/watch?v=Ok5ngwDPD4U)
 
 <h3>5. Estructuras de control</h3>
 
+[![Alt text](https://img.youtube.com/vi/Ih35Lz6vuBs/0.jpg)](https://www.youtube.com/watch?v=Ih35Lz6vuBs)
+
 <h3>6. Ciclos</h3>
 
+[![Alt text](https://img.youtube.com/vi/UOh8ub1aS84/0.jpg)](https://www.youtube.com/watch?v=UOh8ub1aS84)
+
 <h3>7. Funciones</h3>
+
+[![Alt text](https://img.youtube.com/vi/wim7SKCpQ7E/0.jpg)](https://www.youtube.com/watch?v=wim7SKCpQ7E)
 
 
 <h3>Licencia</h3>
