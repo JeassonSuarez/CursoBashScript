@@ -3,7 +3,7 @@ En este repositorio se almacena el contenido de un curso basico de Bash Scriptin
 <h1>HOLA,SOY JEASSON SUÁREZ</h1>
 <h2>Este es mi proyecto final del curso de GNUbies del GLUD, En la penultima diapositiva se encuentra el enlace al curso de Bash publicado en YouTube</h2>
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
+[![Alt text](https://img.youtube.com/vi/pXXEr2YGukI/0.jpg)](https://www.youtube.com/watch?v=pXXEr2YGukI)
 
 
 
